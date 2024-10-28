@@ -7,6 +7,18 @@
 |주제|최대수요전력 예측|스프링 내구력 테스트 통과/실패 예측|세탁 지수 예측|
 |출제<br/>영역|**데이터 전처리**<br/>> Join, 표준화, 일자(date) 형식 처리, shifting<br/>**데이터 추출**<br/>> GroupBy, …<br/>**가설 검정**<br/>> Shapiro-Wilks, Bartlett, T,<br/>일원분산분석, Mann-Whitney U<br/>Chi2 독립성 검정, 이원분산분석<br/>**지도학습**<br/>> 결정트리, GBDT, SVM<br/>**비지도학습**<br/>> PCA, DBSCAN <br/>**이상치 탐색**<br/>> Isolation Forest, Local Outlier Factor|**결측치 처리**<br/>> 반복적 결측치 처리<br/>**가설 검정**<br/>> 베르눌리 분포,  정규 분포<br/>**속성 선택**<br/>> 필터법, 전진선택법<br/>**가설 검정**<br/>> Jarque-bera, Bartlett, 일원분산분석<br/>**지도학습**<br/>> 로지스틱 회귀, 랜덤 포레스트, LDA<br/>**비지도학습**<br/>> PCA<br/>**하이퍼 파라미터 최적화**<br/>> 그리드 서치|**데이터 전처리**<br/>> 치환, 문자열 결합, 표준화, 구간범주화, 가변수화<br/>**가설 검정**<br/>> Kolmogolov-Smironov, Bartlett, 일원분산분석<br/>**확률 통계**<br/>> 정규분포<br/>**지도학습**<br/>> Linear Regression, xgboost<br/>**비지도학습**<br/>> Agglomerative Clustering, PCA<br/>**하이퍼 파라미터 최적화**<br/>|
 
+## 강의 내용
+
+1. 데이터 처리 기법을 문제 풀이와 Tip을 통해 학습합니다.
+
+2. 통계 분석과 머신 러닝 관련 요건을 분석하고 구현하는 방법을 학습합니다. 
+
+3. Level3에서 추가 된 Kaggle형 문제 유형을 풀기 위한 방법을 학습합니다. 
+
+강의: 90% / 실습: 10%
+
+> Level 3는 Level2에 비해 난이도가 급격히 상승합니다. 이에 대응하기 위한 상당히 많은 기법을 알려 드리기 위해 강의 위주로 수업이 구성 되었습니다.
+
 ## 강의 시간표
 
 |구분|강의 내용|시작|끝|
